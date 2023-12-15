@@ -1,1 +1,1 @@
-# game-stone-paper-scissor
+# Js-project2
